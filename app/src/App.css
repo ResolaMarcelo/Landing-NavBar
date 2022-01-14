@@ -1,0 +1,40 @@
+
+
+h1{
+  font-size: 30px;
+  margin-right: 15px;
+  display: inline-block;
+  cursor: pointer;
+  font-family: sans-serif ;
+  text-align: center;
+ font-weight: 100px;
+}
+
+
+ul {  
+  display: inline-block;
+  
+}
+
+i {
+  margin-right: 30px;
+  cursor: pointer;
+}
+
+.home   {
+  opacity: 75%;
+}
+
+a {
+  text-decoration: none;
+  margin: 15px;
+  font-family: sans-serif ;
+  color: black;
+  font-weight: inherit;
+  text-align: center;
+}
+
+.navbar   {
+  background-color: darkgray;
+  height: 60px;
+}
